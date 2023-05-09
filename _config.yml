@@ -1,0 +1,8 @@
+theme: 'hacker'
+defualts:
+  -
+    scope:
+      path: ''
+    values:
+      author: 'Harper Londyn'
+      layout: 'default'
