@@ -5,6 +5,7 @@ defualts:
   -
     scope:
       path: ''
+      type: 'pages'
     values:
       author: 'Harper Londyn'
       layout: 'default'
