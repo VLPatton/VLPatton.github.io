@@ -4,8 +4,7 @@ plugins:
 defualts:
   -
     scope:
-      path: ''
-      type: 'pages'
+      path: ""
     values:
-      author: 'Harper Londyn'
-      layout: 'default'
+      author: Harper Londyn
+      layout: default
