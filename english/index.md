@@ -6,4 +6,5 @@ author: Charlotte Patton
 making sure this works<br>
 again<br>
 again<br>
+typos :)<br>
 {{ page.author }}
