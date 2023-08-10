@@ -1,5 +1,5 @@
 ---
-title: Home
+title: /
 ---
 # What is this?
 A programming blog for me :)
