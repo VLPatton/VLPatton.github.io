@@ -3,6 +3,13 @@ remote_theme: pages-themes/hacker
 title: "vlpatton.gay"
 description: "vaguely programming related stuff"
 
+header_pages:
+  - index.md
+  - about.md
+  - posts/index.md
+
+style: dark
+
 plugins:
   - jekyll-remote-theme
 defaults:

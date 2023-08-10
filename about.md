@@ -10,6 +10,6 @@ Email: [vlpatton@vlpatton.gay](mailto:vlpatton@vlpatton.gay)
 
 Matrix: [@vlpatton:vlpatton.gay](https://matrix.to/#/@vlpatton:vlpatton.gay)
 
-Discord: vlpatton#0961
+Discord: @vlpatton
 
 Github: [VLPatton](https://github.com/VLPatton)
